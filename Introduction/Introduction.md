@@ -1,4 +1,4 @@
-* *Notes on the first chapter, [Introduction](intro.xopp)
+* *Notes on the first chapter, [Introduction](intro.xopp)d
 
 
 ### Questions
