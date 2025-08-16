@@ -1,4 +1,4 @@
-* *Notes on the first chapter*, [Introduction](intro.pdf)
+* *Notes on the first chapter*, [Introduction](chapters_pdf/introLast.pdf)
 
 
 ### Questions
