@@ -6,6 +6,7 @@ This is my notes on studying book called OS: Three easy pieces
 - [OSSU course page link](https://github.com/ossu/computer-science/blob/master/coursepages/ostep/README.md)
 
 
-* Content:
-	1) [Introduction](Introduction/Introduction.md)
-	2) 
+# Contents:
+### Introduction
+1) [Introduction](Introduction/Introduction.md)
+### Virtualization
